@@ -8,6 +8,7 @@ public class HelloWorld {
 
     public static int diffOfTwoNumbers(int a,int b){
         return Math.abs(a-b);
+        System.out.println(sumOfTwoNumbers(1,3));
     }
 
     public static int sumOfTwoNumbers(int a, int b){
@@ -16,6 +17,11 @@ public class HelloWorld {
 
     public static int productOfTwoNumber(int a,int b){
         return a*b;
+    }
+
+
+    public static int sumOfTwoNumbers(int a, int b){
+        return a+b;
     }
 
 }
