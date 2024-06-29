@@ -4,11 +4,11 @@ public class HelloWorld {
         System.out.println(sumOfTwoNumbers(1,3));
         System.out.println("Difference of two Numbers: "+ diffOfTwoNumbers(2,3));
         System.out.println("Product of two numbers: "+productOfTwoNumber(2,3));
+        wifeName();
     }
 
     public static int diffOfTwoNumbers(int a,int b){
         return Math.abs(a-b);
-        System.out.println(sumOfTwoNumbers(1,3));
     }
 
     public static int sumOfTwoNumbers(int a, int b){
@@ -19,9 +19,7 @@ public class HelloWorld {
         return a*b;
     }
 
-
-    public static int sumOfTwoNumbers(int a, int b){
-        return a+b;
+    public static void wifeName(){
+        System.out.println("Gauri Khan");
     }
-
 }
