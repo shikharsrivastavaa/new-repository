@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("Product of two numbers: "+productOfTwoNumber(2,3));
         printName();
         wifeName();
+        childName();
         addAge();
     }
 
@@ -28,6 +29,10 @@ public class HelloWorld {
 
     public static void wifeName(){
         System.out.println("Gauri Khan");
+    }
+
+    public static void childName(){
+        System.out.println("Aryan Khan");
     }
 
     public static void addAge(){
