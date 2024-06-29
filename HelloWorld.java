@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Difference of two Numbers: "+ diffOfTwoNumbers(2,3));
         System.out.println("Product of two numbers: "+productOfTwoNumber(2,3));
         wifeName();
+        addAge();
     }
 
     public static int diffOfTwoNumbers(int a,int b){
@@ -21,5 +22,9 @@ public class HelloWorld {
 
     public static void wifeName(){
         System.out.println("Gauri Khan");
+    }
+
+    public static void addAge(){
+        System.out.println("23");
     }
 }
