@@ -26,7 +26,6 @@ public class HelloWorld {
     }
 
 
-
     public static void wifeName(){
         System.out.println("Gauri Khan");
     }
