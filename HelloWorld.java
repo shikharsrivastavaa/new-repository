@@ -34,4 +34,8 @@ public class HelloWorld {
     public static void childName(){
         System.out.println("Aryan Khan");
     }
+
+    public static void testFunction(){
+        System.out.println("This is a temp test function");
+    }
 }
