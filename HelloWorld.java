@@ -38,4 +38,7 @@ public class HelloWorld {
     public static void testFunction(){
         System.out.println("This is a temp test function");
     }
+    public static void testFunction2(){
+        System.out.println("This is temp test function 2");
+    }
 }
