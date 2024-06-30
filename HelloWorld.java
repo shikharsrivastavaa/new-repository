@@ -46,6 +46,9 @@ public class HelloWorld {
     public static void testFunction3(){
         System.out.println("This is temp test function 3");
     }
+    public static void testFunction4(){
+        System.out.println("This is temp test function 4");
+    }
 
     public static void testFunciton5(){
         System.out.println("This is temp test function 5");
@@ -53,5 +56,13 @@ public class HelloWorld {
 
     public void testFunction6(){
         System.out.println("This is test function 6");
+    }
+
+    public void testFunction7(){
+        System.out.println("This is temp test function 7");
+    }
+
+    public void testFunction8(){
+        System.out.println("This is temp test function 8");
     }
 }
