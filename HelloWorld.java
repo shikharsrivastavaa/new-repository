@@ -61,4 +61,8 @@ public class HelloWorld {
     public void testFunction7(){
         System.out.println("This is temp test function 7");
     }
+
+    public void testFunction8(){
+        System.out.println("This is temp test function 8");
+    }
 }
