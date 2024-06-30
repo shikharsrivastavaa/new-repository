@@ -50,4 +50,8 @@ public class HelloWorld {
     public static void testFunciton5(){
         System.out.println("This is temp test function 5");
     }
+
+    public void testFunction6(){
+        System.out.println("This is test function 6");
+    }
 }
