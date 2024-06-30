@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello world");
@@ -40,5 +42,8 @@ public class HelloWorld {
     }
     public static void testFunction2(){
         System.out.println("This is temp test function 2");
+    }
+    public static void testFunction3(){
+        System.out.println("This is temp test function 3");
     }
 }
